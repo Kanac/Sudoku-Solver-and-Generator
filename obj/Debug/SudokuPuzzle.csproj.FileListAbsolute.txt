@@ -1,0 +1,6 @@
+c:\users\anthony\documents\visual studio 2013\Projects\SudokuPuzzle\SudokuPuzzle\bin\Debug\SudokuPuzzle.exe.config
+c:\users\anthony\documents\visual studio 2013\Projects\SudokuPuzzle\SudokuPuzzle\bin\Debug\SudokuPuzzle.exe
+c:\users\anthony\documents\visual studio 2013\Projects\SudokuPuzzle\SudokuPuzzle\bin\Debug\SudokuPuzzle.pdb
+c:\users\anthony\documents\visual studio 2013\Projects\SudokuPuzzle\SudokuPuzzle\obj\Debug\SudokuPuzzle.csprojResolveAssemblyReference.cache
+c:\users\anthony\documents\visual studio 2013\Projects\SudokuPuzzle\SudokuPuzzle\obj\Debug\SudokuPuzzle.exe
+c:\users\anthony\documents\visual studio 2013\Projects\SudokuPuzzle\SudokuPuzzle\obj\Debug\SudokuPuzzle.pdb
